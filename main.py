@@ -58,7 +58,7 @@ def get_weather(region):
             location_id = 101021700
         if(region == "长宁区"):
             location_id = 101021300
-        if(region == "北京")
+        if(region == "北京"):
             location_id = 101010100
         if(region == "朝阳区"):
             location_id = 101010300
