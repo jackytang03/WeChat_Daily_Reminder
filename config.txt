@@ -11,12 +11,12 @@
  
 # 信息配置
 # 和风天气apikey
-"weather_key": "XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX",
+"weather_key": "1fe9296ed8d74a46a0b2a142b0d0a8e6",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region_1": "北京",
-"region_2": "上海",
+"region_1": "四川",
+"region_2": "德阳",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "九书", "birthday": "2023-11-10"},
+"birthday1": {"name": "榴芒", "birthday": "1997-09-01"},
 # 生日2
 "birthday2": {"name": "智乃", "birthday": "2000-12-04"},
 # 在一起的日子，格式同上，暂不不支持农历
